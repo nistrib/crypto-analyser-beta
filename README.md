@@ -530,17 +530,10 @@ For questions, feedback, or contributions:
 
 # 📚 Documentation
 
-## Version 1.0 Documentation
+## Version 1.0 Documentation and ## Version 2.0 Documentation
 - This README (you're reading it)
 - Inline code comments
 - Configuration section above
-
-## Version 2.0 Documentation
-- `version2/README_PRODUCTION.md` - Full documentation
-- `version2/TECHNICAL_COMPARISON.md` - Bug fixes explained
-- `version2/TROUBLESHOOTING.md` - Common issues & solutions
-- Inline docstrings in all functions
-- 24 test cases with explanations
 
 ---
 
@@ -554,9 +547,8 @@ For questions, feedback, or contributions:
 
 ### For v2.0 Issues:
 1. Run `python diagnose_data.py`
-2. Check `TROUBLESHOOTING.md`
-3. Run tests: `python test_crypto_system.py`
-4. Review logs in `version2/logs/`
+2. Run tests: `python test_crypto_system.py`
+3. Review logs 
 
 ### General Help:
 - Read the appropriate README
@@ -592,6 +584,6 @@ This software is provided for **educational and demonstration purposes only**. B
 
 ---
 
-*Last Updated: January 2025*  
+*Last Updated: January 2026*  
 *Repository Status: BETA*  
 *License: MIT*
