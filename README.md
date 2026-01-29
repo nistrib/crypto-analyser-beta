@@ -61,13 +61,6 @@ A professionally implemented cryptocurrency trading system featuring state-of-th
 
 ## 🚀 Quick Start (v2.0)
 
-### Installation
-
-```bash
-cd version2/
-pip install -r requirements_production.txt
-```
-
 ### Three Ways to Get Started
 
 #### 1️⃣ Quick Start (Recommended for First Run)
